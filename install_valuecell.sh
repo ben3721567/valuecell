@@ -30,7 +30,7 @@ install_bun
 # === 2. 克隆仓库 ===
 if [ ! -d "ValueCell" ]; then
     echo "📥 克隆 ValueCell 仓库..."
-    git clone https://github.com/你的仓库地址/ValueCell.git
+    git clone https://github.com/ValueCell-ai/valuecell.git
 else
     echo "📂 已存在 ValueCell 文件夹，跳过克隆"
 fi
